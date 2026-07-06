@@ -1,0 +1,6 @@
+{
+  "name": "Bakery Shop",
+  "description": "A premium full-stack bakery website featuring online ordering, custom cake building, table reservations, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
